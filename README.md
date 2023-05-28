@@ -47,12 +47,6 @@ Após realizar as alterações nas configurações de rede, os problemas de cone
 
 Neste projeto, foi possível solucionar com sucesso os problemas de conectividade enfrentados pela empresa após a migração para a nuvem AWS. A revisão e alteração das configurações de rede da VPC foram essenciais para restabelecer a conectividade entre as instâncias EC2 e a internet, bem como permitir a comunicação adequada entre os bancos de dados e as instâncias. Ao configurar corretamente a tabela de roteamento, anexar o Internet Gateway e ajustar os grupos de segurança, conseguimos resolver os problemas de conectividade, garantindo que os serviços na nuvem funcionem de maneira eficiente.
 
-Próximos Passos
-
-Recomendamos que sejam implementadas medidas preventivas adicionais para evitar problemas futuros de conectividade na VPC. Alguns possíveis próximos passos podem incluir:
-
-- Monitoramento contínuo: Estabelecer um sistema de monitoramento para acompanhar a conectividade e o desempenho da VPC, a fim de identificar e resolver problemas de forma proativa.
-
 ## Recursos Adicionais
 
 Aqui estão alguns recursos adicionais que podem ser úteis para aprender mais sobre as configurações de rede da VPC na AWS:
