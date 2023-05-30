@@ -26,6 +26,11 @@ Para solucionar os problemas de conectividade, serão realizadas as seguintes a�
 
 
 ## Arquitetura
+
+<div align="center">
+<img src="https://github.com/RodriguesGabe/aws-vpc-connectivity-troubleshooting/assets/105085377/da394f52-a3ac-41d5-a4b0-8a4b9651d3a9" width="700px" 
+</div>
+  
 ## Serviços Utilizados
 
 ## Passo a Passo
